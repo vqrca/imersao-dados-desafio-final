@@ -19,7 +19,7 @@ Portanto, esse projeto permitirá a predição de mecanismos de ação das droga
 
 **Ojetivo do projeto**
 
-- Avaliar a ação de drogas em relação aos valores expressão gênica de diversos genes; 
+- Avaliar a ação de drogas em relação aos valores expressão gênica de diversos genes 
 
 - Determinar os mecanismos de ação das drogas
 
