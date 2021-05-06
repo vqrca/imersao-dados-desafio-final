@@ -1,6 +1,8 @@
 
 # Desafio Final Imersão Dados
 
+!(https://github.com/vqrca/imersao-dados-desafio-final/blob/main/image1.jpg) 
+
 **Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
