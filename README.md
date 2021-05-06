@@ -33,8 +33,8 @@ Neste desafio, temos dados dois arquivos .csv (*dados_experimentos* e *dados_res
 - A informação se houve tratamento com alguma droga ou se a amostra é um controle. Lembrando que todo desenho experimental precisa conter amostras chamadas controles, onde não houve tratamento, para ser possível analisar apenas uma variável: a ação da droga;
 - Tempo do experimento: 24, 48 ou 72 horas;
 - Dosagem das drogas:  denominadas como D1 ou D2;
-- Colunas com todos genes analisados e seus respectivos valores de expressão: g-0 até g-771
-- Colunas com diferentes células testadas e seus respectivos valores de viabilidade celular: c-0 até c-99
+- Colunas com todos genes analisados e seus respectivos valores de expressão: g-0 até g-771;
+- Colunas com diferentes células testadas e seus respectivos valores de viabilidade celular: c-0 até c-99.
  
 *dados_resultados*
 
