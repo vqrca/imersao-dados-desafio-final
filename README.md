@@ -5,7 +5,7 @@
 
 **Projeto**
 
-Drug discovery - Análise de dados e predição de Mecanismos de ação 
+Drug discovery - Análise de dados e predição de mecanismos de ação 
 
 **Descrição**
 
