@@ -1,7 +1,7 @@
 
 # Desafio Final Imersão Dados
 
-![imagem](https://github.com/vqrca/imersao-dados-desafio-final/blob/main/image1.jpg)
+![imagem](https://github.com/vqrca/imersao-dados-desafio-final/blob/main/image2.jpg)
 
 ---
 
