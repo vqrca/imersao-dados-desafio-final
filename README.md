@@ -3,9 +3,28 @@
 
 ![imagem](https://github.com/vqrca/imersao-dados-desafio-final/blob/main/image1.jpg)
 
+---
+
+**Um pouco sobre mim**
+
+Sou bióloga e tenho Doutorado em Biotecnologia pela Universidade de Mogi das Cruzes. Atuo na área de Microbiologia, com ênfase em Biologia Molecular e Genômica. Possuo conhecimentos sólidos das técnicas comumente empregadas em genômica estrutural e genômica funcional. Atualmente, sou Pesquisadora Colaboradora no programa de Biossistemas da Universidade Federal do ABC.
+
+---
+
+**Onde encontrar meu trabalho?**
+
+[LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
+
+[ResearchGate](https://www.researchgate.net/profile/Valquiria-Alencar)
+
+[Currículo lattes](http://lattes.cnpq.br/7742338443535710)
+
+---
+
 **Projeto**
 
 Drug discovery - Análise de dados e predição de mecanismos de ação 
+
 
 **Descrição**
 
